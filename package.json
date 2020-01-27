@@ -1,0 +1,19 @@
+{
+  "name": "rehype-mathjax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ir1d/rehype-mathjax.git"
+  },
+  "author": "Ir1d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ir1d/rehype-mathjax/issues"
+  },
+  "homepage": "https://github.com/Ir1d/rehype-mathjax#readme"
+}
